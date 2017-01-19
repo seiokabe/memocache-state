@@ -1,0 +1,9 @@
+{
+    "Memcached": {
+    "server"        : "localhost:11211",
+    "option2"       : { "remove": true, "retries": 10 },
+    "option"        : { "retries": 10 },
+    "cacheTTL"      : 1800
+  }
+}
+
